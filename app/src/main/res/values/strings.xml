@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpartAppleMarket</string>
+    <string-array name="category_array">
+        <item>내배캠동</item>
+        <item>2번</item>
+        <item>3번</item>
+        <item>4번</item>
+    </string-array>
+</resources>
